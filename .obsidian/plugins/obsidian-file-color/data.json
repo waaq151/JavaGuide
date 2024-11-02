@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "mJzKOHXoLUNovMwaxi23J",
+      "name": "red",
+      "value": "#fb4141"
+    },
+    {
+      "id": "rfdUuLxJYiSWnVjLMUpaF",
+      "name": "green",
+      "value": "#20de12"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "技术学习",
+      "color": "rfdUuLxJYiSWnVjLMUpaF"
+    }
+  ]
+}
